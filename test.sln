@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "conventor", "ConsoleApp1\co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sumandumnj", "ConsoleApp2\sumandumnj.csproj", "{DB934E13-EA68-48E4-8644-760F6E5AF215}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sredzn", "sredzn\sredzn.csproj", "{F4C2F6E7-5A52-4BE1-90D8-F591AB052FCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DB934E13-EA68-48E4-8644-760F6E5AF215}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB934E13-EA68-48E4-8644-760F6E5AF215}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB934E13-EA68-48E4-8644-760F6E5AF215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4C2F6E7-5A52-4BE1-90D8-F591AB052FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C2F6E7-5A52-4BE1-90D8-F591AB052FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C2F6E7-5A52-4BE1-90D8-F591AB052FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C2F6E7-5A52-4BE1-90D8-F591AB052FCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
